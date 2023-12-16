@@ -36,18 +36,19 @@ Feel free to explore and customize the app to suit your needs. You can experimen
 
 ![img.png](img.png)
 
-* The output
+* The output in collab notebook
 
 ![img_1.png](img_1.png)
+
+## Working collab notebook copy :
+
+Share : https://gist.github.com/flyfir248/d54f46ab6dd1f1c30e6585b0e77e973e
 
 
 ## Acknowledgments
 
 This app utilizes the Microsoft Phi 2 language model, and we appreciate the contributions from the Microsoft Research team in advancing language model capabilities. Special thanks to the Streamlit development team for providing an excellent framework for building interactive web applications.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Issues and Contributions
 
